@@ -7,7 +7,7 @@
     "start": "nf start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tomomi Imura",
+  "author": "Bryan Christopher",
   "license": "MIT",
   "dependencies": {
     "apiai": "^4.0.2",
